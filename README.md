@@ -1,8 +1,8 @@
-# Dynamic DNS client for Cloudflare
+#Cloudflare的动态DNS客户端
 
-A small tool for updating the IPv6 address at Cloudflare DNS with the currently detected address of the specified network interface.
+一个小型工具，用于使用当前检测到的指定网络接口的地址更新Cloudflare DNS上的IPv6地址。
 
-## Features
+##特征
 
 - Intellegent IPv6 address selection
 - Support for multiple domains
